@@ -1,0 +1,2 @@
+- name: Generate ADR TOC
+  uses: jules2689/adr-actions@0.0.2
